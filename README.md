@@ -1,7 +1,7 @@
 # Prompt Engineering for Dialogue Summarization
 
 This repository contains a comprehensive assignment on **prompt engineering** techniques for dialogue summarization using the Flan-T5 model and the DialogSum dataset.
-
+see colab notebook: https://colab.research.google.com/drive/1-UUIgUWW9ZtS7PwW1DtH4SUD0EXzkHMc?usp=sharing
 ##  Overview
 
 This assignment explores how different prompting strategies affect the performance of large language models on dialogue summarization tasks. Students will implement and compare:
