@@ -23,7 +23,7 @@ This assignment explores how different prompting strategies affect the performan
 ##  File Structure
 
 ```
-├── YunyuGuo_PA5_(Prompt_Engineering).ipynb  # Main assignment notebook
+├── PA5_(Prompt_Engineering).ipynb  # Main assignment notebook
 └── README.md                                # This file
 ```
 
